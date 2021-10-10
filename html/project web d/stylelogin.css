@@ -1,0 +1,49 @@
+body{
+    margin: 12px;
+    padding: 0px;
+    background-color: azure;
+    border-radius: 50;
+}
+
+p {
+    color:#2f2d30;
+}
+fieldset{
+    
+    text-align: center;
+    text-emphasis-color: black;
+    border-radius: 20px;
+    border-width: 160pt;border-color:azure;
+    background-color: azure;
+    padding-bottom: 25pt;
+}
+
+.primary{
+    text-align: center;
+}
+input{
+    color: #111013;
+    background-color: rgb(226, 205, 253);
+}
+input{
+    font-family: arial;
+}
+
+p.button{
+    padding-left:30px;
+    font-size: 15pt;
+}
+body a{
+    font-size: 20pt;
+    padding-left: 4%;
+    font-family: fantasy;
+    color: black;
+
+
+}
+
+
+#sign{
+    padding-right: 10px;
+    text-align: center;
+}

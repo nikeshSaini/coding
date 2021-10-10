@@ -1,0 +1,36 @@
+#flex1{
+    background-color: lightgreen;
+
+}
+#flex2{
+    background-color: lightblue;
+
+}
+#flex3{
+    background-color:lightpink;
+
+}
+#flex4{
+    background-color: violet;
+
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:22pt ;
+    line-height: 2;
+}
+.felx-conatainer{
+    
+    display: flex;
+    flex-wrap: nowrap;
+}
+.flex{
+    width: 75px;
+    height: 75px;
+background-color: thistle;
+line-height: 2.5;
+ 
+text-align: center;
+
+
+}

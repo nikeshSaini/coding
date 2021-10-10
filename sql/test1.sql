@@ -1,0 +1,1 @@
+create table mytable (age int, name varchar(40) );

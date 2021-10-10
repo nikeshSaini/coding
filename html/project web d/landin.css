@@ -1,0 +1,96 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+header h1 {
+    text-align: center;
+    font-size: 79px;
+    color: white;
+    font-family:fantasy ;
+}
+header {
+    padding: 20px;
+    background-color: crimson;
+}
+
+.topdiv {background-color:#ca871c;}
+div a {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  padding: 15px;
+  display:inline-block;
+}
+ul {
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+ul li {display: inline-block;}
+ul li:hover {background: #green;}
+ul li:hover ul {display: block;}
+ul li ul {
+  position: absolute;
+  width: 200px;
+  display: none;
+}
+ul li ul li { 
+  background: #335; 
+  display: block; 
+}
+ul li ul li a {display:block !important;} 
+ul li ul li:hover {background: #466;}
+.search {
+    padding-left:4%;
+    width: auto;
+}
+.topdiv ul li {
+    border-radius: 1%;
+}
+
+*
+{box-sizing: auto;} 
+
+div.entry{
+    background-color: azure;
+    padding-bottom:10%;
+    margin: 0%;
+}
+.quote{
+    margin-top:0%;
+    padding-top: 5%;
+    color: #FA5515;
+    background-color: azure;
+    font-family: monospace;
+    font-size: 40px;
+    text-align: center;
+}
+div >a{
+    background-position: center;
+    
+}
+.signup {
+    padding:0% 40%;
+    size: 60px;
+    border-radius: 12%;
+    
+
+    
+
+    
+}
+
+div >p{
+    margin: 0%;
+    font-family: cursive;
+    font-size: 40px;
+    padding:10% 15%;
+    text-align: center;
+    
+}
+ 
+div p{
+    padding-top: 40px; 
+    padding-bottom: 202px;
+}

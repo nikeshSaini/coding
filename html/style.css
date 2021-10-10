@@ -1,0 +1,10 @@
+body{
+    font-style: italic;
+color: navy;
+}
+:first{
+    color: red;
+}
+#nav{
+    color: red;
+}

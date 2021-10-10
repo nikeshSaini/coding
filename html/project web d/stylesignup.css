@@ -1,0 +1,61 @@
+body{
+    margin: 0%;
+    padding: 0px;
+    background-color: azure;
+    border-radius: 10px;
+
+}
+
+fieldset{
+    border-radius: 50px;
+    border-width: 160pt;border-color:azure;
+    background-color: azure;
+    padding: 0%;
+}
+
+.primary-text{
+    text-align: center;
+    
+    
+color: #272621;;
+}
+.p2{
+    text-align: center;
+}
+
+p{
+    color: #2f2d32}
+label{
+    color: #2f2f2f;
+}
+input{
+    color: #111013;
+    background-color: rgb(226, 205, 253);
+}
+p{
+    color: #2f2d32;
+    text-align: center;
+   
+}
+
+input{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+div{
+    text-align: center;
+    padding-left:50pt;
+}
+p.sex{padding-left: 50pt;}
+
+p.button{
+    padding-left: 50pt;
+}
+body a{
+    font-size: 20pt;
+    padding-left: 4%;
+    font-family: fantasy;
+    color: black;
+
+
+}
